@@ -9,7 +9,7 @@ RDC-ON : is very easy to use, can help you to manage multiple RDP connection ses
 
 .
 
-RDC-ON (security) : is very secure, use all last patch and security methods from microsoft, and dont use any credentiel, hi is use the tokens, then every credentiel is save in the session with computer SID, then no one can use it or steal them.
+#RDC-ON (security) : is very secure, use all last patch and security methods from microsoft, and dont use any credentiel, hi is use the tokens, then every credentiel is save in the session with computer SID, then no one can use it or steal them.
 
 RDC-ON (more) : is the best tool to manage your remote server that exist in market, and use a hight compress to allow you to manage until 4 server in same times, with a very low resource consumption (CPU) and (RAM), of corse with hight quality.
 
