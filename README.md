@@ -20,14 +20,9 @@ Windows 10, and server 2012 r2 or 2016 and more.
 
 HOW TO USE :
 
-Don't forgat to save your credentiel.
-
-when add new server, specify the domain in username : exemple : lab\tech1
-
- 
-NEW VERSION AVAILABLE : Version 2 
-
 pls chose domain mode if your computer is in the domain ( to resolve the nla probleme, at this moment you can enter the password of computer, remember that the password is saved in the Windows library also)
 
 ![2](https://user-images.githubusercontent.com/49924401/83701922-7706b200-a60b-11ea-9912-7e7555719ce3.png)
 
+Link to video how to use :
+https://www.youtube.com/watch?v=17nQpCsL7Rs
